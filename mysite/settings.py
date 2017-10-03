@@ -25,7 +25,7 @@ SECRET_KEY = '7dny#r=61_bs!v+v3v9(^wwgrbkc4&vy9_k+p!i+l!xud5ut%('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['afceke.pythonanywhere.com']
+ALLOWED_HOSTS = ['afceke.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
